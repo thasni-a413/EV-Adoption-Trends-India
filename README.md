@@ -54,6 +54,32 @@ It highlights state-level adoption, year-over-year growth, fuel type comparisons
 
 ---
 
+## 📑 Reports
+  Explore the full dashboard here:  
+- [View PDF Report](reports/EV_Adoption_India.pdf)  
+- [Download Power BI File (.pbix)](reports/EV_Adoption_India.pbix)  
+
+---
+
+## Future Steps
+- Add GIS data for charging infrastructure planning.  
+- Extend analysis to fleet & commercial EVs.  
+- Integrate CO₂ savings & cost reduction metrics.  
+- Sync with real-time VAHAN/e-AMRIT portals.
+
+  ---
+
+  ## License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
+ ---
+
+ ## Author
+**Thasni A.**  
+Junior Data Scientist | Power BI & Machine Learning Enthusiast  
+
+📧 Reach me on https://www.linkedin.com/in/thasni-ai/ | [GitHub](#)  
+
 ## Repository Structure
 ```plaintext
 EV-Adoption-Trends-India/
@@ -72,6 +98,7 @@ EV-Adoption-Trends-India/
 │   ├── vehicle_category_breakdown.png
 │── README.md             # Main project documentation
 │ ── LICENSE
+
 
 
 
