@@ -61,6 +61,28 @@ It highlights state-level adoption, year-over-year growth, fuel type comparisons
 
 ---
 
+## Repository Structure
+
+EV-Adoption-Trends-India/  
+│── data/  
+│   ├── raw/              # Original dataset (CSV)  
+│  
+│── reports/  
+│   ├── EV_Adoption_India.pbix   # Power BI project file  
+│   ├── EV_Adoption_India.pdf    # Exported dashboard report  
+│  
+│── visuals/              # Dashboard screenshots, banner images  
+│   ├── banner.png  
+│   ├── dashboard_main.png  
+│   ├── state_wise_map.png  
+│   ├── yoy_growth.png  
+│   ├── vehicle_category_breakdown.png  
+│  
+│── README.md             # Main project documentation  
+│── LICENSE  
+
+---
+
 ## Future Steps
 - Add GIS data for charging infrastructure planning.  
 - Extend analysis to fleet & commercial EVs.  
@@ -78,28 +100,6 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 **Thasni A.**  
 Junior Data Scientist | Power BI & Machine Learning Enthusiast  
 
-📧 Reach me on https://www.linkedin.com/in/thasni-ai/ | [GitHub](#)  
-
-## Repository Structure
-```plaintext
-EV-Adoption-Trends-India/
-│── data/
-│   ├── raw/              # Original dataset (CSV)
-│
-│── reports/
-│   ├── EV_Adoption_India.pbix  # Power BI project file
-│   ├── EV_Adoption_India.pdf   # Exported dashboard report
-│
-│── visuals/              # Dashboard screenshots, banner images
-│   ├── banner.png
-│   ├── dashboard_main.png
-│   ├── state_wise_map.png
-│   ├── yoy_growth.png
-│   ├── vehicle_category_breakdown.png
-│── README.md             # Main project documentation
-│ ── LICENSE
-
-
-
+Reach me on https://www.linkedin.com/in/thasni-ai/ | https://github.com/thasni-a413
 
 
