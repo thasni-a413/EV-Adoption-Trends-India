@@ -54,7 +54,7 @@ It highlights state-level adoption, year-over-year growth, fuel type comparisons
 
 ---
 
-## 📑 Reports
+## Reports
   Explore the full dashboard here:  
 - [View PDF Report](reports/EV_Adoption_India.pdf)  
 - [Download Power BI File (.pbix)](reports/EV_Adoption_India.pbix)  
